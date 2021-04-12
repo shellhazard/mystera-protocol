@@ -5,6 +5,4 @@ The contents of `protocol.md` have not received more than cursory updates since 
 
 ## Why?
 
-At one point, I was interested in using this information to develop a private server. That interest has since faded but the documentation is relatively complete should anyone else feel like picking up the torch in future (you should probably just make a better game, though).
-
-You might also find this useful if you are developing extensions/client mods for the game.
+At one point, I was interested in using this information to develop a private server. That interest has since faded but the documentation is relatively complete should anyone else feel like picking up the torch in future (you should probably just make a better game, though). You might also find this useful for developing extensions/client mods.
